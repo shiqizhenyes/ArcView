@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ArcView">
+        <attr name="rabbet" format="boolean"/>
+        <attr name="gradation" format="boolean"/>
+        <attr name="arcHeight" format="dimension"/>
+        <attr name="startColor" format="color"/>
+        <attr name="endColor" format="color"/>
+    </declare-styleable>
+
+</resources>
